@@ -1,0 +1,4 @@
+project_id = ""
+
+[functions.verify-tx]
+verify_jwt = false

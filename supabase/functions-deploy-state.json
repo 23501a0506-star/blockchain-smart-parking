@@ -1,0 +1,9 @@
+{
+  "projectId": "72540385",
+  "functions": {
+    "verify-tx": {
+      "hasChanged": false,
+      "hash": "d75bf02e53fc5ce9c63bd07eb4cd8da53c277baf769b30e73e3f74d5baa5cfff"
+    }
+  }
+}
